@@ -34,8 +34,13 @@ a:hover{
    
     
 }
-.fot{        
+.fot{
+     font-family: 'Inconsolata', monospace;      
     text-align: center;
+    background-color: #f27b35;
+    border-radius: 5px;
+    
+   
 }
 .formulario{
     margin: auto;
